@@ -12,7 +12,7 @@ We focused on analyzing and predicting the popularity of the songs in the datase
 
 
 
-### How to use the notebook:
+### How to run the notebook:
 1) Go to [Kaggle](https://www.kaggle.com/datasets/fcpercival/160k-spotify-songs-sorted?select=data.csv) and download the file _data.csv_;
 2) Download the file _songsAnalysis.ipynb_ from this repository and put it in the same directory of _data.csv_
 3) Open the terminal and launch the notebook writing on the command line "jupyter notebook" (make sure to have Anaconda downloaded into your computer)
