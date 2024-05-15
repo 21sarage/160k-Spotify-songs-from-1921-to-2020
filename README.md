@@ -1,6 +1,6 @@
 # 160k-Spotify-songs-from-1921-to-2020
 
-We used this Jupyter Notebook as an example of how to implement a Data Science pipeline, through:
+We used this Jupyter Notebook as an example of how to implement a Data Science pipeline, through multiple stages:
 - data collection
 - data cleanup
 - data visualization and statistical analysis
