@@ -4,6 +4,7 @@ We used this Jupyter Notebook as an example of how to implement a Data Science p
 - data collection
 - data cleanup
 - data visualization and statistical analysis
+- statistical test (t-test)
 - clustering (using the k-means algorithm)
 - use of a predictive method (Linear Regression and Logistic Regression)
 
