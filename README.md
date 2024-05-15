@@ -8,4 +8,4 @@ We used this Jupyter Notebook as an example of how to implement a Data Science p
 - clustering (using the k-means algorithm)
 - use of a predictive method (Linear Regression and Logistic Regression)
 
-We focused on analyzing and predicting the popularity of the songs in the dataset (imported by Kaggle), studying the musical features that compose each track.
+We focused on analyzing and predicting the popularity of the songs in the dataset (imported by [Kaggle]https://www.kaggle.com/datasets/fcpercival/160k-spotify-songs-sorted?select=data.csv), studying the musical features that compose each track.
